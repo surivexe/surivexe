@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surivexe
 - 👀 I’m interested in Linux ahhh
-- 🌱 I’m currently learning C lol
+- 🌱 I’m currently learning Python lol
 - 📫 How to reach me: on discord: surivexe
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
