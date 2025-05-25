@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @surivexe
 - 👀 I’m interested in Linux ahhh
-- 🌱 I’m currently learning Python lol
-- 📫 How to reach me: on discord: surivexe
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning Minecraft pvp lol
+- 📫 How to reach me: on discord: suriv.exe
+- 😄 Pronouns: any
 - ⚡ Fun fact: ...
 
 <!---
